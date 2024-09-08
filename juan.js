@@ -11,3 +11,9 @@
 
 console.log("hola mundo en rama b ")
 >>>>>>> ramaB
+<<<<<<< HEAD
+=======
+
+
+console.log("disfrutando de toda esta chimba");
+>>>>>>> ramaB
