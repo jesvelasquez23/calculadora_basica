@@ -13,7 +13,7 @@ console.log("hola mundo en rama b ")
 >>>>>>> ramaB
 <<<<<<< HEAD
 =======
-
+sad
 
 console.log("disfrutando de toda esta chimba");
 >>>>>>> ramaB
